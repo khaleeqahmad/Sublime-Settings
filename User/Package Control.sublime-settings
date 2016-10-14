@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Clipboard Manager",
+		"CloseOtherWindows",
+		"Cobalt2 Flat Theme",
+		"CTags",
+		"DashDoc",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"Package Control",
+		"Package Syncing",
+		"Rails Developer Snippets",
+		"rspec-snippets",
+		"Ruby Debugger",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Theme - Cobalt2",
+		"Theme - Primer"
+	]
+}

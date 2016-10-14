@@ -1,0 +1,18 @@
+{ "working_dir": "${project_path}", "env": { "PATH": "${HOME}/.rvm/bin:${PATH}" }, "cmd": [ "rvm-auto-ruby", "$file" ], "file_regex": "^(...?):([0-9]):?([0-9]*)", "selector": "source.ruby",
+  "auto_complete": true,
+  "auto_complete_commit_on_tab": true,
+  "copy_with_empty_selection": true,
+  "ensure_newline_at_eof_on_save": true,
+  "index_files": true,
+  "rulers":
+  [
+    79
+  ],
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+
+  "index_files": true,
+  "word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
+
+}
