@@ -4,6 +4,7 @@
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -18,5 +19,8 @@
 	"line_padding_top": 1,
 	"save_on_focus_lost": true,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 }

@@ -17,6 +17,7 @@
 		"DictionaryAutoComplete",
 		"DocBlockr",
 		"Emmet",
+		"ERB Snippets",
 		"Git",
 		"GitGutter",
 		"Github Tools",
@@ -24,6 +25,7 @@
 		"MarkdownEditing",
 		"Package Control",
 		"Package Syncing",
+		"ProductiveSnippetsERB",
 		"Rails Developer Snippets",
 		"Related Files",
 		"rspec-snippets",
@@ -31,9 +33,11 @@
 		"Ruby on Rails snippets",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeERB",
 		"SublimeLinter",
 		"SublimeLinter-ruby",
 		"SyncedSideBar",
+		"Terminal",
 		"Theme - Cobalt2",
 		"Theme - Primer"
 	]
