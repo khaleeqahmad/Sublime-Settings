@@ -35,6 +35,7 @@
 		"SublimeCodeIntel",
 		"SublimeERB",
 		"SublimeLinter",
+		"SublimeLinter-rubocop",
 		"SublimeLinter-ruby",
 		"SyncedSideBar",
 		"Terminal",
